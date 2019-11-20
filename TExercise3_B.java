@@ -48,7 +48,7 @@ public class TExercise3_B
 		}
 		valid = false;
 		while(!valid)
-		{
+		{// 1950462
 			System.out.println("\nHow many time did your hero use the skill "+ SkillName+"?");
 			String tstr = scanner.nextLine();
 			try

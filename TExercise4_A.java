@@ -43,7 +43,7 @@ public class TExercise4_A
 			System.out.println("\n Prof. Oak : Pikachu? Well then, good luck to You Ash!");
 			System.out.println("\n Pikachu use thunderbolt on Ash and refuse to return to the pokeball!");
 			break;
-			
+			// 1950462
 			default:
 			System.out.println("\n Prof. Oak : I wonder how You get other choice other then 1 to 5?\n");
 			break;

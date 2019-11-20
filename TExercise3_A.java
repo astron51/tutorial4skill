@@ -35,6 +35,7 @@ public class TExercise3_A
 					System.out.println("\nInvalid Skill! Please try again... \n");
 			}catch (NumberFormatException e)
 			{
+				// 1950462
 				System.out.println("\nInvalid Skill! Please try again... \n");
 			}
 			switch(Skill)
